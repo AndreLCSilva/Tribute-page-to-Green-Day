@@ -1,0 +1,38 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main">
+  
+  <h1 id="title"> The great Green Day's albums </h1>
+  
+  <p id="tribute-info"> Dookie, Nimrod, American Idiot and others </p>
+  
+  <div id="img-div">
+    <img id="image" src="https://preview.redd.it/pmylytt8x7001.jpg?width=640&crop=smart&auto=webp&s=349ba0eaf312a8f43e2a77bed5645936ecff7af6" alt="All Green Day' albums since 1989."/><br>
+      <figurecaption id="img-caption">All Green Day' albums since 1990.
+      </figurecaption>        
+  </div>
+  
+  <ul><strong>Green Day's albums time line</strong></ul>
+      <li><strong>1990:</strong> 1,039/Smoothed Out Slappy Hours</li>
+      <li><strong>1991:</strong> Kerplunk</li>
+      <li><strong>1994:</strong> Dookie</li>
+      <li><strong>1995:</strong> Insomniac</li>
+      <li><strong>1997:</strong> Nimrod </li>
+      <li><strong>2000:</strong> Warning </li>
+      <li><strong>2004:</strong> American Idiot</li>
+      <li><strong>2009:</strong> 21st Century Breakdown</li>
+      <li><strong>2012:</strong> ¡Uno!</li>
+      <li><strong>2012:</strong> ¡Dos!</li>
+      <li><strong>2012:</strong> ¡Tré!</li>
+      <li><strong>2016:</strong> Revolution Radio</li>
+      <li><strong>2020:</strong> Father of All Motherfuckers</li>
+  
+      <p> "I beg to dream and differ from the hollow lies <br>
+This is the dawning of the rest of our lives on holiday"<br><br>
+     --Billie Joe Armstrong, 2004.
+      </p>
+  
+
+      <h3>For more informations about the band go to <a id="tribute-link" href= "https://pt.wikipedia.org/wiki/Green_Day" target="_blank"> Wikipedia Web Site</a>
+      </h3>
+  
